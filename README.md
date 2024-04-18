@@ -5,3 +5,4 @@ To correct work, you have to install the following Python libraries:
 ```
 pip install pyTelegramBotAPI mattermostdriver
 ```
+**Note:** The script does not work if you have authorisation enabled with 2FA for Mattermost.
